@@ -1,0 +1,23 @@
+{
+  "name": "colour_manager",
+  "version": "1.0.0",
+  "description": "Manage colours in a project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex7egli/colour_manager.git"
+  },
+  "keywords": [
+    "colour"
+  ],
+  "author": "Alex Egli (alex7egli@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex7egli/colour_manager/issues"
+  },
+  "homepage": "https://github.com/alex7egli/colour_manager#readme"
+}
